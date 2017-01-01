@@ -1,0 +1,7 @@
+.has-danger .text-help {
+  color: #d9534f;
+}
+
+form .btn-danger {
+  margin-left: 5px;
+}
